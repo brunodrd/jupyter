@@ -1,0 +1,7 @@
+Encore un environnement de développement python
+===============================================
+
+Description non exhaustive de l'environnement Jupyter notebook.  
+Les principaux points abordés:  
+* notion de cellule;
+* quelques fonctionnalités
